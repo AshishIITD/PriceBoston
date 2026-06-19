@@ -59,7 +59,9 @@ jupyter notebook
 
 ---
 
-**Author:** Ashish Singh  
 **License:** Apache 2.0  
 **Domain:** Machine Learning, Data Science, Real Estate Analytics  
 **Status:** Production Ready
+
+
+"This project was created as a learning exercise. Some code may have been adapted from online tutorials and educational resources. If you believe your work has been used without proper attribution, please contact me."
